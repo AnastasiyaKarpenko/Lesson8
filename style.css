@@ -29,7 +29,7 @@ header p {padding-bottom: 25px;
 .container table {
    /* border: 2px solid #b31f1f;*/
     width: 80%;
-    border-collapse: collapse;
+
   
 }
 .container table td {
@@ -41,10 +41,7 @@ td label {
     padding-top: 10px;
    /* border: 2px solid #b31f1f;*/
 }
-tr {
-    
-    /*border: 2px solid #b31f1f;*/
-}
+
 .container input[type="text"], .text,
 .container select { 
     color: rgba(0, 0, 0, 0.562);
